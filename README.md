@@ -15,7 +15,7 @@ Databases:
   - MongoDB, PostgreSQL, MySQL, SQLite, Redis  
 
 Backend:  
-  - Express.js, Nest.j, Django, FastAPI, Flask, Gin  
+  - Express.js, Nest.js, Django, FastAPI, Flask, Gin  
   - REST APIs, GraphQL, gRPC, WebSockets, Redis
 
 Frontend:  
